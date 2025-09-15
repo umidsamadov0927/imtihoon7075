@@ -35,8 +35,3 @@
 // let str = prompt('ism kiriting');
 // let str2 = str.split('').reverse().join('');
 // console.log(str2);
-
-let numbers = [1,2313,3,54,2]
-numbers.filter((number) => {
-
-})
